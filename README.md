@@ -1,0 +1,2 @@
+# YGZone.github.io
+myblog
